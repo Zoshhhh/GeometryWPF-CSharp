@@ -1,0 +1,61 @@
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\bin\Debug\Geometrie.exe
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\bin\Debug\Geometrie.pdb
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\App.g.cs
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\MainWindow.baml
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.exe
+C:\Users\gjuillar\source\repos\Geometrie\Geometrie\obj\Debug\Geometrie.pdb
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\bin\Debug\Geometrie.exe
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\bin\Debug\Geometrie.pdb
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\App.g.cs
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\MainWindow.baml
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.exe
+E:\2022-2023\SIO1\Bloc 2\Projet-Geometrie\Geometrie\Geometrie\obj\Debug\Geometrie.pdb
+E:\Projet Geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+E:\Projet Geometrie\Geometrie\obj\Debug\App.g.cs
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+E:\Projet Geometrie\Geometrie\obj\Debug\MainWindow.baml
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.pdb
+E:\Projet Geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+E:\Projet Geometrie\Geometrie\bin\Debug\Geometrie.exe
+E:\Projet Geometrie\Geometrie\bin\Debug\Geometrie.pdb
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.exe
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+E:\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\bin\Debug\Geometrie.exe.config
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\bin\Debug\Geometrie.exe
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\bin\Debug\Geometrie.pdb
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.cache
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie_MarkupCompile.lref
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.g.resources
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.Properties.Resources.resources
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.exe
+C:\Users\User\Desktop\Projet Geometrie\Geometrie\obj\Debug\Geometrie.pdb
